@@ -1,1 +1,1 @@
-# microservice-course
+# Microservice Project
