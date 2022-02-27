@@ -8,10 +8,13 @@
 
 ### Overview
 
-- Sistema para gerenciamento de folha de pagamento de funcionários.
+- Utilização de microserviços para gerenciamento de folha de pagamento de funcionários.
 
-O projeto estará dividido em três partes:
+# Fases do projeto
 
-  * [HR-WORKER](https://github.com/Uallessonivo/microservice-course/tree/main/hrworker)
-  * [HR-PAYROLL](#microservice)
-  * [HR-USER](#microservice)
+### Fase 1
+
+* [HR-WORKER](https://github.com/Uallessonivo/microservice-course/tree/main/hrworker)
+* [HR-PAYROLL](https://github.com/Uallessonivo/microservice-course/tree/main/hrpayroll)
+
+### Fase 2
