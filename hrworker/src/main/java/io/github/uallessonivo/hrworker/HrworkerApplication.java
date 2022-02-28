@@ -2,8 +2,9 @@ package io.github.uallessonivo.hrworker;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 
-@SpringBootApplication
+@SpringBootApplication @EnableEurekaClient
 public class HrworkerApplication {
 
 	public static void main(String[] args) {

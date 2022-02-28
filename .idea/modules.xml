@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../hreureka/hreureka/hreureka.iml" filepath="$PROJECT_DIR$/../../hreureka/hreureka/hreureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../hrpayroll/hrpayroll/hrpayroll.iml" filepath="$PROJECT_DIR$/../../hrpayroll/hrpayroll/hrpayroll.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../hrworker/hrworker/hrworker.iml" filepath="$PROJECT_DIR$/../../hrworker/hrworker/hrworker.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/microservice-course.iml" filepath="$PROJECT_DIR$/.idea/microservice-course.iml" />
