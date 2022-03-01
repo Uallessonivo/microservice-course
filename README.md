@@ -17,9 +17,20 @@
 * [HR-WORKER](https://github.com/Uallessonivo/microservice-course/tree/main/hrworker)
 * [HR-PAYROLL](https://github.com/Uallessonivo/microservice-course/tree/main/hrpayroll)
 
-O projeto HR-PAYROLL utiliza o Feign Client para comunicação com o microserviço HR-WORKER. <br/>
-Também utliza o Ribbon para balanceamento de carga.
+#### Configs
+
+* Comunicação de microserviços com Feign Client
+* Ribbon para balanceamento de requisições
+
 
 ### Fase 2
 
 * [HR-EUREKA-SERVER](https://github.com/Uallessonivo/microservice-course/tree/main/hreureka)
+* [HR-ZUUL-API-GATEWAY](https://github.com/Uallessonivo/microservice-course/tree/main/hrgateway)
+
+#### Configs
+
+* Hystrix para tolerância a falhas
+* Zuul para Api Gateway
+* Zuul Timeout
+* Porta aleatória para o Hr-Payroll
