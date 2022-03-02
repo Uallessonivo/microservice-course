@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../hrconfig/hrconfig/hrconfig.iml" filepath="$PROJECT_DIR$/../../hrconfig/hrconfig/hrconfig.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../hreureka/hreureka/hreureka.iml" filepath="$PROJECT_DIR$/../../hreureka/hreureka/hreureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../hrgateway/hrgateway/hrgateway.iml" filepath="$PROJECT_DIR$/../../hrgateway/hrgateway/hrgateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../hrpayroll/hrpayroll/hrpayroll.iml" filepath="$PROJECT_DIR$/../../hrpayroll/hrpayroll/hrpayroll.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../hruser/hruser/hruser.iml" filepath="$PROJECT_DIR$/../../hruser/hruser/hruser.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../hrworker/hrworker/hrworker.iml" filepath="$PROJECT_DIR$/../../hrworker/hrworker/hrworker.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/microservice-course.iml" filepath="$PROJECT_DIR$/.idea/microservice-course.iml" />
     </modules>

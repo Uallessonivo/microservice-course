@@ -10,6 +10,11 @@
         <option value="$PROJECT_DIR$/../../hreureka/hreureka/pom.xml" />
         <option value="$PROJECT_DIR$/hreureka/pom.xml" />
         <option value="$PROJECT_DIR$/../../hrgateway/hrgateway/pom.xml" />
+        <option value="$PROJECT_DIR$/hrgateway/pom.xml" />
+        <option value="$PROJECT_DIR$/../../hrconfig/hrconfig/pom.xml" />
+        <option value="$PROJECT_DIR$/hrconfig/pom.xml" />
+        <option value="$PROJECT_DIR$/../../hruser/hruser/pom.xml" />
+        <option value="$PROJECT_DIR$/hruser/pom.xml" />
       </list>
     </option>
   </component>

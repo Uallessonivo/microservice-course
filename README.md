@@ -34,3 +34,12 @@
 * Zuul para Api Gateway
 * Zuul Timeout
 * Porta aleatória para o Hr-Payroll
+
+### Fase 3
+
+* Centralizando a aplicação com Config Server
+* [MS-CONFIG](https://github.com/Uallessonivo/ms-app-configsy)
+
+### Fase 4
+
+* Autenticação com oauth
