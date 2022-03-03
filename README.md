@@ -37,9 +37,15 @@
 
 ### Fase 3
 
-* Centralizando a aplicação com Config Server
+* Centralizando as configurações da aplicação com Config Server
 * [MS-CONFIG](https://github.com/Uallessonivo/ms-app-configsy)
 
 ### Fase 4
 
-* Autenticação com oauth
+* [MS-USER](https://github.com/Uallessonivo/microservice-course/tree/main/hruser)
+* [MS-OAUTH](https://github.com/Uallessonivo/microservice-course/tree/main/hroauth)
+
+#### Configs
+* Entidades User, Role e Assosiação N:N
+* Servidor de Autorização com Spring Security
+* Autenticação com Spring Security OAuth2

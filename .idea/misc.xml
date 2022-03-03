@@ -15,6 +15,8 @@
         <option value="$PROJECT_DIR$/hrconfig/pom.xml" />
         <option value="$PROJECT_DIR$/../../hruser/hruser/pom.xml" />
         <option value="$PROJECT_DIR$/hruser/pom.xml" />
+        <option value="$PROJECT_DIR$/../../hroauth/pom.xml" />
+        <option value="$PROJECT_DIR$/hroauth/pom.xml" />
       </list>
     </option>
   </component>
